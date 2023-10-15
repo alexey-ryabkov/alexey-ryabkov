@@ -4,4 +4,4 @@
 - 🔭 I'm currently learning reactive / flux architecture from a general standpoint and dealing with the implementation of design patterns on typescript
 - 🦾 I’m looking to collaborate with friendly, involved in the process, experienced team
 - 👨‍🔧 I dream of becoming a tech lead in my stack
-- 📫 e-mail a.n.ryabkov@icloud.com / telegram https://t.me/l3x3y
+- 📫 e-mail [a.n.ryabkov@icloud.com](mailto://a.n.ryabkov@icloud.com) / [telegram @l3x3y](https://t.me/l3x3y)
