@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Alexey!
+### Всем привет 👋, меня зовут Алексей!
 
-- 👨‍💻 I experienced in javascript, typescript, react, redux, webpack, sass, html5&css3
-- 🔭 I'm currently learning reactive / flux architecture from a general standpoint and dealing with the implementation of design patterns on typescript
-- 🦾 I’m looking to collaborate with friendly, involved in the process, experienced team
-- 👨‍🔧 I dream of becoming a tech lead in my stack
-- 📫 e-mail [a.n.ryabkov@icloud.com](mailto://a.n.ryabkov@icloud.com) / [telegram @l3x3y](https://t.me/l3x3y)
+- 👨‍💻 Разрабатываю проекты на javascript, typescript, react, redux, webpack, sass, html5&css3
+- 🔭 В настоящий момент для более глубокого понимания front-end разработки изучаю реактивную / flux архитектуру с общих позиций, а также разбираюсь с реализацией паттернов проектирования на typescript
+- 🦾 Ищу дружную, вовлеченную в процесс, опытную команду
+- 👨‍🔧 Мечтаю стать tech lead в своем стеке
+- 📫 e-mail [a.n.ryabkov@icloud.com](mailto://a.n.ryabkov@icloud.com) / телеграм [@l3x3y](https://t.me/l3x3y)
